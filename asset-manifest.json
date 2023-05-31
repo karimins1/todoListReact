@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/karimins1/todoListReact.git/static/css/main.20269b13.css",
+    "main.js": "/karimins1/todoListReact.git/static/js/main.9df8a7da.js",
+    "static/js/787.c1ef15fa.chunk.js": "/karimins1/todoListReact.git/static/js/787.c1ef15fa.chunk.js",
+    "static/media/logo.svg": "/karimins1/todoListReact.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/karimins1/todoListReact.git/index.html",
+    "main.20269b13.css.map": "/karimins1/todoListReact.git/static/css/main.20269b13.css.map",
+    "main.9df8a7da.js.map": "/karimins1/todoListReact.git/static/js/main.9df8a7da.js.map",
+    "787.c1ef15fa.chunk.js.map": "/karimins1/todoListReact.git/static/js/787.c1ef15fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20269b13.css",
+    "static/js/main.9df8a7da.js"
+  ]
+}
