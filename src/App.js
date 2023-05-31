@@ -7,7 +7,7 @@ function App() {
   
   useEffect(()=>{
     const storedTodos=JSON.parse(localStorage.getItem('todo'))
-    if(storedTodos.length>0){
+    if(storedTodos && storedTodos.length>0){
       valeu(storedTodos)
     }
   },[])
